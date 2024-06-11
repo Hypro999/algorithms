@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+
+.mypy_cache/
+target/
+
+*.pyc
+*.class
